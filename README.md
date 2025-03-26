@@ -58,3 +58,6 @@ The dataset was collected from the **AICTE official website** by following these
 ## Conclusion
 
 This project provides **data-driven insights** into engineering education in Maharashtra. By leveraging **Power BI**, we can help institutions, policymakers, and students make informed decisions based on enrollment patterns, accreditation, and geographical distributions.
+
+#content
+Developer: Gayatri Ninave Email: gayatrininave83@gmail.com LinkedIn: Gayatri Ninave
